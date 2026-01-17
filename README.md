@@ -112,9 +112,9 @@ The project follows a structured **Data Analytics + Machine Learning pipeline**:
 
 ## 📈 Key Insights
 
-- Loan approval decisions depend on a combination of financial stability, credit behavior, and loan burden, not a single attribute.
-- Credit-related features such as credit score and DTI ratio strongly influence approval patterns.
-- The ML system ensures **100% consistency** in decision logic, unlike manual evaluation.
+- Loan approval decisions depend on a **combination of financial stability, credit behavior, and loan burden,** not a single attribute.
+- Credit-related features such as **credit score and DTI ratio** strongly influence approval patterns.
+- The ML system ensures **100% consistency in decision logic,** unlike manual evaluation.
 - Automated pre-verification reduces dependency on subjective human judgment.
 
 ## 📊 Dashboard / Output
