@@ -163,3 +163,27 @@ The **CreditWise Loan System** successfully demonstrates how **Machine Learning 
 - Provides a scalable foundation for real-world banking and financial analytics applications
 
 This project reflects a **practical implementation of ML-driven risk assessment** aligned with real-world financial industry requirements.
+
+## 📬 Contact
+
+### **Deorshi Nishant**
+*Data Analyst & Business Intelligence Professional*
+
+---
+
+### 🔗 Connect with me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/itsyournish/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:itsyournish07@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+</p>
+
+---
+
+*💼 Open to collaborations and new opportunities in Data Analytics & Business Intelligence*
+
+*⭐ If you found this project helpful, please consider giving it a star!*
