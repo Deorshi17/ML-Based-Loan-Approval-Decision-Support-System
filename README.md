@@ -107,12 +107,17 @@ The project follows a structured **Data Analytics + Machine Learning pipeline**:
    - Identification of risk-related financial patterns
 
 **5.** **Model Development**
-   - Supervised Machine Learning for loan approval prediction
-   - Training on historical applicant records
+- Implemented multiple supervised ML algorithms:
+   - **K-Nearest Neighbors (KNN)**
+   - **Logistic Regression**
+   - **Naive Bayes**
 
 **6.** **Prediction & Evaluation**
-   - Model predicts Approved (1) or Rejected (0)
-   - Results compared against actual outcomes
+   - Performed **binary classification** for loan approval prediction
+   - Evaluated models using:
+      - **Precision**
+      - **Recall**
+      - **F1-Score**
 
 ## 📈 Key Insights
 
@@ -145,10 +150,11 @@ pip install numpy pandas matplotlib seaborn scikit-learn
 ```
 
 **4.** Run all notebook cells sequentially to:
-   - Load and preprocess data
-   - Perform EDA
-   - Train ML model
-   - Generate predictions and visual outputs
+- Load and preprocess data
+- Perform EDA
+- Apply feature engineering
+- Train ML models
+- Generate predictions and visual outputs
 
 ## ✅ Results & Conclusion
 
