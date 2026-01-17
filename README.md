@@ -97,16 +97,20 @@ The project follows a structured **Data Analytics + Machine Learning pipeline**:
    - Encoding categorical variables
    - Preparing data for ML model training
 
-**3.** **Exploratory Data Analysis (EDA)**
+**3.** **Feature Engineering**
+- Encoding categorical variables into numerical formats suitable for machine learning models
+- Structuring numerical features to ensure compatibility with supervised learning algorithms
+
+**4.** **Exploratory Data Analysis (EDA)**
    - Distribution analysis of applicant income, loan amount, credit score, etc.
    - Comparative analysis between Approved vs Rejected applications
    - Identification of risk-related financial patterns
 
-**4.** **Model Development**
+**5.** **Model Development**
    - Supervised Machine Learning for loan approval prediction
    - Training on historical applicant records
 
-**5.** **Prediction & Evaluation**
+**6.** **Prediction & Evaluation**
    - Model predicts Approved (1) or Rejected (0)
    - Results compared against actual outcomes
 
