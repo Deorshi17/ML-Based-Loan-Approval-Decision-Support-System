@@ -106,18 +106,22 @@ The project follows a structured **Data Analytics + Machine Learning pipeline**:
    - Comparative analysis between Approved vs Rejected applications
    - Identification of risk-related financial patterns
 
-**5.** **Model Development**
-   - Implemented multiple supervised ML algorithms:
-     ○ **K-Nearest Neighbors (KNN)**
-     ○ **Logistic Regression**
-     ○ **Naïve Bayes**
+### 5. Model Development
 
-**6.** **Prediction & Evaluation**
-   - Performed **binary classification** for loan approval prediction
-   - Evaluated models using:
-     ○ **Precision**
-     ○ **Recall**
-     ○ **F1-Score**
+Implemented multiple **supervised ML algorithms**:
+
+- **K-Nearest Neighbors (KNN)**
+- **Logistic Regression**
+- **Naive Bayes**
+
+### 6. Prediction & Evaluation
+
+- Performed **binary classification** for loan approval prediction  
+- Evaluated models using:
+  - **Precision**
+  - **Recall**
+  - **F1-Score**
+
 
 ##  Key Insights
 
