@@ -4,13 +4,13 @@
 
 
 
-## 🔍 Overview
+##  Overview
 
 The **CreditWise Loan System** is an intelligent loan approval solution developed using **Data Analytics and Machine Learning** to support financial institutions in making **accurate, fast, and unbiased loan approval decisions.**
 
 The system analyzes historical loan application data and predicts whether a loan should be **Approved (1)** or **Rejected (0)** before final human verification, helping banks reduce risk and improve operational efficiency.
 
-## ❗ Problem Statement
+##  Problem Statement
 
 A mid-sized financial company, **SecureTrust Bank**, offers personal and home loans to customers across **urban and rural regions of India.** Every day, **hundreds of customers apply for loans** through both online and branch-based applications.
 
@@ -37,11 +37,11 @@ To address these issues, the bank plans to introduce an **intelligent loan appro
 
 You are hired as a **Machine Learning Engineer** to design and develop this system using **historical loan application data**, enabling accurate, fast, and unbiased decision-making.
 
-## 📂 Dataset
+##  Dataset
 
 Each row in the dataset represents **one loan applicant,** and each column describes the applicant's **personal, financial, and credit-related attributes.**
 
-### 🎯 Target Variable
+###  Target Variable
 
 **Loan_Approved**
 
@@ -50,7 +50,7 @@ Each row in the dataset represents **one loan applicant,** and each column descr
 
 ➡️ This makes the problem a **binary classification task (100%)**, where every prediction belongs to **one of two possible outcomes.**
 
-### 📌 Feature Description
+###  Feature Description
 
 | Feature | Description |
 |---------|-------------|
@@ -76,7 +76,7 @@ Each row in the dataset represents **one loan applicant,** and each column descr
 
 All features are used to help the model learn patterns from past loan decisions.
 
-## 🛠 Tools and Technologies
+##  Tools and Technologies
 
 - **Programming Language:** Python
 - **Data Analysis Libraries:** Pandas, NumPy
@@ -84,7 +84,7 @@ All features are used to help the model learn patterns from past loan decisions.
 - **Machine Learning:** Scikit-learn
 - **Development Environment:** Jupyter Notebook
 
-## ⚙️ Methods
+##  Methods
 
 The project follows a structured **Data Analytics + Machine Learning pipeline**:
 
@@ -119,14 +119,14 @@ The project follows a structured **Data Analytics + Machine Learning pipeline**:
       - **Recall**
       - **F1-Score**
 
-## 📈 Key Insights
+##  Key Insights
 
 - Loan approval decisions depend on a **combination of financial stability, credit behavior, and loan burden,** not a single attribute.
 - Credit-related features such as **credit score and DTI ratio** strongly influence approval patterns.
 - The ML system ensures **100% consistency in decision logic,** unlike manual evaluation.
 - Automated pre-verification reduces dependency on subjective human judgment.
 
-## 📊 Dashboard / Output
+##  Dashboard / Output
 
 - Visualizations created using **Matplotlib and Seaborn**:
   - Financial attribute distributions
@@ -138,7 +138,7 @@ The project follows a structured **Data Analytics + Machine Learning pipeline**:
 
 These outputs help stakeholders understand both the prediction and the reasoning patterns behind it.
 
-## ▶️ How to Run this Project?
+##  How to Run this Project?
 
 **1.** Download or clone the project repository
 
@@ -156,7 +156,7 @@ pip install numpy pandas matplotlib seaborn scikit-learn
 - Train ML models
 - Generate predictions and visual outputs
 
-## ✅ Results & Conclusion
+##  Results & Conclusion
 
 The **CreditWise Loan System** successfully demonstrates how **Machine Learning combined with Data Analytics** can improve traditional loan approval processes.
 
