@@ -93,13 +93,14 @@ The project follows a structured **Data Analytics + Machine Learning pipeline**:
    - Understanding the binary target variable
 
 **2.** **Data Preprocessing**
-   - Cleaning inconsistent or missing values
-   - Encoding categorical variables
-   - Preparing data for ML model training
+   - Cleaning inconsistent or missing values using **Mean Imputation (numerical) and Mode Imputation (categorical).**
+   - Encoding categorical variables using **Label Encoding.**
+   - Preparing data for ML model training with an **80/20 train-test split.**
 
 **3.** **Feature Engineering**
-- Encoding categorical variables into numerical formats suitable for machine learning models
-- Structuring numerical features to ensure compatibility with supervised learning algorithms
+- Encoding categorical variables into numerical formats using **One-Hot Encoding.**
+- **Creating polynomial features (squaring DTI Ratio and Credit Score) to capture non-linear relationships.**
+- Structuring numerical features to ensure compatibility **by applying Standard Scaling (StandardScaler).**
 
 **4.** **Exploratory Data Analysis (EDA)**
    - Distribution analysis of applicant income, loan amount, credit score, etc.
