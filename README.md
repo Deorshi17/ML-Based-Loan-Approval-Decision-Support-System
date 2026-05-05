@@ -48,7 +48,7 @@ Each row in the dataset represents **one loan applicant,** and each column descr
 - **1** → Approved
 - **0** → Rejected
 
-➡️ This makes the problem a **binary classification task (100%)**, where every prediction belongs to **one of two possible outcomes.**
+➡️ This makes the problem a **binary classification task**, where every prediction belongs to **one of two possible outcomes.**
 
 ###  Feature Description
 
@@ -90,7 +90,7 @@ The project follows a structured **Data Analytics + Machine Learning pipeline**:
 
 **1.** **Data Understanding**
    - Identification of numerical and categorical features
-   - Understanding the binary target variable (100%)
+   - Understanding the binary target variable
 
 **2.** **Data Preprocessing**
    - Cleaning inconsistent or missing values
@@ -121,6 +121,7 @@ Implemented multiple **supervised ML algorithms**:
   - **Precision**
   - **Recall**
   - **F1-Score**
+- **Result:** The Naive Bayes model performed the best, achieving a Precision of 81% and an overall accuracy of 86%, making it the most reliable model for minimizing false loan approvals.
 
 
 ##  Key Insights
@@ -137,7 +138,7 @@ Implemented multiple **supervised ML algorithms**:
   - Approved vs Rejected comparison plots
 
 - Final Output:
-  - **Binary loan approval prediction (100%)**
+  - **Binary loan approval prediction**
   - Clear Approved / Rejected decision for each applicant
 
 These outputs help stakeholders understand both the prediction and the reasoning patterns behind it.
