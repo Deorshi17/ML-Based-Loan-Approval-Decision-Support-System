@@ -122,7 +122,9 @@ Implemented multiple **supervised ML algorithms**:
   - **Precision**
   - **Recall**
   - **F1-Score**
-- **Result:** The Naive Bayes model performed the best, achieving a Precision of 81% and an overall accuracy of 86%, making it the most reliable model for minimizing false loan approvals.
+- **Result:**
+  - **Highest Overall Accuracy:** The Logistic Regression model achieved the best overall performance with **88% accuracy** and an **81% F1-score**, making it highly reliable for general decision-making.
+  - The Naive Bayes model performed the best, achieving a Precision of 81% and an overall accuracy of 86%, making it the most reliable model for minimizing false loan approvals.
 
 
 ##  Key Insights
